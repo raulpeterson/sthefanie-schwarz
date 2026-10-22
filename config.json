@@ -1,0 +1,26 @@
+{
+  "whatsapp": "5545999994755",
+  "instagram": "https://www.instagram.com/dra.sthefanieschwarz/",
+  "videos": [
+    {
+      "titulo": "Medicina Geral",
+      "descricao": "Prevenção, diagnóstico e tratamento.",
+      "youtube": ""
+    },
+    {
+      "titulo": "Procedimentos Médicos Ambulatoriais",
+      "descricao": "Retirada de pintas, verrugas e sinais de pele, cistos, tratamento de xantelasma, unhas encravadas e correção do lóbulo da orelha.",
+      "youtube": ""
+    },
+    {
+      "titulo": "Saúde Ocupacional",
+      "descricao": "Acompanhamento e avaliação clínica do trabalhador.",
+      "youtube": ""
+    },
+    {
+      "titulo": "Saúde Infantojuvenil",
+      "descricao": "Crescimento, desenvolvimento e acompanhamento.",
+      "youtube": ""
+    }
+  ]
+}
